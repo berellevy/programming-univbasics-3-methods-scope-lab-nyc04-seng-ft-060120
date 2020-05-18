@@ -20,5 +20,6 @@ def all_phrases (phrase)
         toadstool
     when "link"
         link
+    end
 
 end
