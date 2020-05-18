@@ -12,14 +12,8 @@ def link
     puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases (phrase)
-    # case phrase
-    # when "mario"
-    #     mario
-    # when "toadstool"
-    #     toadstool
-    # when "link"
-    #     link
-    # end
-    puts phrase
+def all_phrases
+    mario
+    toadstool
+    link
 end
