@@ -21,8 +21,5 @@ def all_phrases (phrase)
     # when "link"
     #     link
     # end
-    mario
-    toadstool
-    link
-
+    puts phrase
 end
