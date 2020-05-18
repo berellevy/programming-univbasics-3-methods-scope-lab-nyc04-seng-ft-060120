@@ -13,5 +13,12 @@ def link
 end
 
 def all_phrases (phrase)
-    puts phrase
+    case phrase
+    when "mario"
+        mario
+    when "toadstool"
+        toadstool
+    when "link"
+        link
+        
 end
